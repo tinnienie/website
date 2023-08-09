@@ -1,0 +1,40 @@
+.container {
+    border: 3px solid black;
+    border-radius: 10px;
+    width: 60%;
+    padding: 20px;
+    display: none;
+    max-width: 950px;
+    background-color: #ebebeb;
+    padding: 16px;
+    font-size: 18px;
+    color: inherit;
+    font-family: inherit;
+}
+
+button {
+    margin-top: 10px;
+}
+
+body{
+    margin-left: 50px;
+    margin-top: 50px;
+    background-color: #948e8c;
+    padding: 40px 64px;
+    font-family: inherit;
+}
+
+.next, .result{
+    border: none;
+    background-color: #a7be20;
+    font-size: 18px;
+    padding: 6px 12px;
+    border-radius: 100px;
+    color: inherit;
+    font-family: inherit;
+    font-weight: 700;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+
